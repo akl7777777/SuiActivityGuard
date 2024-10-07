@@ -1,0 +1,8 @@
+{
+  "apiKey": "xxxx",
+  "blockchainAddresses": [
+    "0x7a2d64ea540dcaa1a823f14e353be9d80ef9c33ec237d1b2fc49337ff95eadcb",
+    "0x0527faa45844918761faad23a607b8cc964393afe84163b8669dd6be64b40caa"
+  ],
+  "checkInterval": 60
+}
